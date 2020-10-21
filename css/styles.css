@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #cbaf87;
+    color: #30475e;
+}
+nav,h1 {
+    text-align: center;
+}
+.nopointlist{
+    list-style: none;
+}
+.greyback {
+
+    width: 100%;
+    background-color: #7e8a97;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+}
+img {
+    float: left;
+    width: 25%;
+    height: auto;
+    margin-right: 10px;
+}
+
+.rightfloat {
+    display: inline;
+    float: right;
+}
+.Teal {
+    color: teal;
+}
+.lightback {
+    background-color: #e7dec8;
+    margin: 10px;
+}
+
+a:visited {
+    color: silver;
+}
+a:link {
+    color: rgb(31, 183, 221);
+}
